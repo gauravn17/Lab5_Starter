@@ -15,3 +15,10 @@ No, I would not use a unit test to test the full “message” feature because i
 
 Answer:
 Yes, I would use a unit test to test the “max message length” feature. This is a self-contained validation rule that checks the length of user input. It can be tested independently of other parts of the app to ensure that messages over 80 characters are correctly rejected or truncated. Unit testing is ideal for this kind of input validation logic.
+
+### GitHub Pages Links
+
+- [Expose Page](https://gauravn17.github.io/Lab5_Starter/expose.html)
+- [Explore Page](https://gauravn17.github.io/Lab5_Starter/explore.html)
+
+
